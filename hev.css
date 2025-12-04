@@ -24,7 +24,7 @@ h1, h2{
   -ms-transform: rotate(3deg); /* IE 9 */
   -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
   transform: rotate(3deg);
- border: 2px solid #888888;
+  float: right;
 }
 
 #urlap{
